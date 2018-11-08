@@ -16,6 +16,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWindowsForms", "MyWindowsForms\MyWindowsForms.csproj", "{2A85B37C-5B27-44CC-84D8-F44C0AB27DED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "Logger\Logger.csproj", "{C4FDC6C5-E095-405D-A913-9BAFDDB2C55E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +40,10 @@ Global
 		{2A85B37C-5B27-44CC-84D8-F44C0AB27DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A85B37C-5B27-44CC-84D8-F44C0AB27DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A85B37C-5B27-44CC-84D8-F44C0AB27DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4FDC6C5-E095-405D-A913-9BAFDDB2C55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4FDC6C5-E095-405D-A913-9BAFDDB2C55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4FDC6C5-E095-405D-A913-9BAFDDB2C55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4FDC6C5-E095-405D-A913-9BAFDDB2C55E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

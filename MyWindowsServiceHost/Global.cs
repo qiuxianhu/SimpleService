@@ -1,10 +1,13 @@
-﻿using System;
+﻿using Logger;
+using System;
 using System.Configuration;
 
 namespace MyWindowsServiceHost
 {
     public static class Global
     {
+        private static ILogger _FileLogger = null;
+
         internal const string SERVICE_NAME = "MyWindowsServiceHost";
 
         internal static int SleepMinute = 1;//多少分钟执行一次
@@ -25,6 +28,13 @@ namespace MyWindowsServiceHost
             //}
             _myWindowsServiceJob = new MyWindowsServiceJob();
         }
+
+        #region 日志        
+        internal static ILogger Logger
+        {
+            get { return _FileLogger; }
+        }
+        #endregion
 
         #region 方法
         /// <summary>
@@ -50,14 +60,19 @@ namespace MyWindowsServiceHost
         /// </summary>
         public static void Start()
         {
+            _FileLogger.LogWithTime(SERVICE_NAME+" 服务启动中...",ELogLevel.Info);
             _myWindowsServiceJob.Initialize();
+            _FileLogger.LogWithTime(SERVICE_NAME+"服务已启动!",ELogLevel.Info);
         }
         /// <summary>
         /// 停止服务
         /// </summary>
         public static void Stop()
         {
+            _FileLogger.LogWithTime(SERVICE_NAME+" 服务停止中...",ELogLevel.Info);
             _myWindowsServiceJob.Dispose();
+            _FileLogger.LogWithTime(SERVICE_NAME+"服务已停止!",ELogLevel.Info);
+            _FileLogger.Dispose();
         }
         #endregion
     }

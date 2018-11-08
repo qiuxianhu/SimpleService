@@ -51,6 +51,10 @@
       <Project>{cbea17c5-b80b-4341-b554-bd17896dd954}</Project>
       <Name>CycleEngine</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Logger\Logger.csproj">
+      <Project>{c4fdc6c5-e095-405d-a913-9bafddb2c55e}</Project>
+      <Name>Logger</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

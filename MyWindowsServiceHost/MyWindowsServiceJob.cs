@@ -1,4 +1,5 @@
 ﻿using CycleEngine;
+using Logger;
 
 namespace MyWindowsServiceHost
 {
@@ -17,6 +18,7 @@ namespace MyWindowsServiceHost
 
         internal void Initialize()
         {
+            Global.Logger.LogWithTime(Global.SERVICE_NAME+"服务初始化...",ELogLevel.Info);
             _taskCycleEngine = new TaskCycleEngine(this);
             _taskCycleEngine.DetectSpanInSecs= Global.SleepMinute * 60;
             _taskCycleEngine.Start();
