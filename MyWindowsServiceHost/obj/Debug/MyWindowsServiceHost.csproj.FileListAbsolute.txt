@@ -1,0 +1,9 @@
+F:\个人信息\Demo\SimpleService\MyWindowsServiceHost\bin\Debug\MyWindowsServiceHost.dll
+F:\个人信息\Demo\SimpleService\MyWindowsServiceHost\bin\Debug\MyWindowsServiceHost.pdb
+F:\个人信息\Demo\SimpleService\MyWindowsServiceHost\obj\Debug\MyWindowsServiceHost.csprojAssemblyReference.cache
+F:\个人信息\Demo\SimpleService\MyWindowsServiceHost\obj\Debug\MyWindowsServiceHost.csproj.CoreCompileInputs.cache
+F:\个人信息\Demo\SimpleService\MyWindowsServiceHost\obj\Debug\MyWindowsServiceHost.dll
+F:\个人信息\Demo\SimpleService\MyWindowsServiceHost\obj\Debug\MyWindowsServiceHost.pdb
+F:\个人信息\Demo\SimpleService\MyWindowsServiceHost\bin\Debug\CycleEngine.dll
+F:\个人信息\Demo\SimpleService\MyWindowsServiceHost\bin\Debug\CycleEngine.pdb
+F:\个人信息\Demo\SimpleService\MyWindowsServiceHost\obj\Debug\MyWindowsServiceHost.csproj.CopyComplete

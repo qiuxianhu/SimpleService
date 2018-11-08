@@ -1,0 +1,43 @@
+﻿正在安装程序集“F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+   assemblypath = F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.exe
+正在安装服务 MyWindowsService...
+已成功安装服务 MyWindowsService。
+正在日志 Application 中创建 EventLog 源 MyWindowsService...
+正在提交程序集“F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+   assemblypath = F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.exe
+正在卸载程序集“F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+   assemblypath = F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.exe
+正在移除 EventLog 源 MyWindowsService。
+正在从系统中移除服务 MyWindowsService...
+已成功地从系统中移除服务 MyWindowsService。
+尝试停止服务 MyWindowsService。
+正在安装程序集“F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+   assemblypath = F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.exe
+正在安装服务 MyWindowsService...
+已成功安装服务 MyWindowsService。
+正在日志 Application 中创建 EventLog 源 MyWindowsService...
+正在提交程序集“F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+   assemblypath = F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.exe
+正在卸载程序集“F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.InstallLog
+   assemblypath = F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.exe
+正在移除 EventLog 源 MyWindowsService。
+正在从系统中移除服务 MyWindowsService...
+已成功地从系统中移除服务 MyWindowsService。

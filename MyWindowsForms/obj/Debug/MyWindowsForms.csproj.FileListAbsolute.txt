@@ -1,0 +1,15 @@
+F:\个人信息\Demo\SimpleService\MyWindowsForms\bin\Debug\MyWindowsForms.exe.config
+F:\个人信息\Demo\SimpleService\MyWindowsForms\bin\Debug\MyWindowsForms.exe
+F:\个人信息\Demo\SimpleService\MyWindowsForms\bin\Debug\MyWindowsForms.pdb
+F:\个人信息\Demo\SimpleService\MyWindowsForms\bin\Debug\MyWindowsServiceHost.dll
+F:\个人信息\Demo\SimpleService\MyWindowsForms\bin\Debug\CycleEngine.dll
+F:\个人信息\Demo\SimpleService\MyWindowsForms\bin\Debug\MyWindowsServiceHost.pdb
+F:\个人信息\Demo\SimpleService\MyWindowsForms\bin\Debug\CycleEngine.pdb
+F:\个人信息\Demo\SimpleService\MyWindowsForms\obj\Debug\MyWindowsForms.csprojAssemblyReference.cache
+F:\个人信息\Demo\SimpleService\MyWindowsForms\obj\Debug\MyWindowsForms.Form1.resources
+F:\个人信息\Demo\SimpleService\MyWindowsForms\obj\Debug\MyWindowsForms.Properties.Resources.resources
+F:\个人信息\Demo\SimpleService\MyWindowsForms\obj\Debug\MyWindowsForms.csproj.GenerateResource.cache
+F:\个人信息\Demo\SimpleService\MyWindowsForms\obj\Debug\MyWindowsForms.csproj.CoreCompileInputs.cache
+F:\个人信息\Demo\SimpleService\MyWindowsForms\obj\Debug\MyWindowsForms.csproj.CopyComplete
+F:\个人信息\Demo\SimpleService\MyWindowsForms\obj\Debug\MyWindowsForms.exe
+F:\个人信息\Demo\SimpleService\MyWindowsForms\obj\Debug\MyWindowsForms.pdb

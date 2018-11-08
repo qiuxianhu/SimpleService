@@ -1,0 +1,8 @@
+本实例是一个完整的Windows服务框架。
+
+服务框架的核心就是循环引擎CycleEngine，有System.Threading.Timer方式，也有ESBasic.Threading.Engines.ICycleEngine第三方实现方式。
+可以参考博客https://www.cnblogs.com/zhuweisky/archive/2009/09/01/1557792.html
+
+window服务的构建可以参考https://www.cnblogs.com/qtiger/p/9897522.html
+
+windows服务的安装卸载启动停止几种方式可以参考https://www.cnblogs.com/qtiger/p/9897517.html

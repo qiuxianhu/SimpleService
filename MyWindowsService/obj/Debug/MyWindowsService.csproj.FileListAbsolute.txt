@@ -1,0 +1,14 @@
+F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.exe.config
+F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.exe
+F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsService.pdb
+F:\个人信息\Demo\SimpleService\MyWindowsService\obj\Debug\MyWindowsService.csprojAssemblyReference.cache
+F:\个人信息\Demo\SimpleService\MyWindowsService\obj\Debug\MyWindowsService.ProjectInstaller.resources
+F:\个人信息\Demo\SimpleService\MyWindowsService\obj\Debug\MyWindowsService.csproj.GenerateResource.cache
+F:\个人信息\Demo\SimpleService\MyWindowsService\obj\Debug\MyWindowsService.csproj.CoreCompileInputs.cache
+F:\个人信息\Demo\SimpleService\MyWindowsService\obj\Debug\MyWindowsService.exe
+F:\个人信息\Demo\SimpleService\MyWindowsService\obj\Debug\MyWindowsService.pdb
+F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsServiceHost.dll
+F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\CycleEngine.dll
+F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\MyWindowsServiceHost.pdb
+F:\个人信息\Demo\SimpleService\MyWindowsService\bin\Debug\CycleEngine.pdb
+F:\个人信息\Demo\SimpleService\MyWindowsService\obj\Debug\MyWindowsService.csproj.CopyComplete
