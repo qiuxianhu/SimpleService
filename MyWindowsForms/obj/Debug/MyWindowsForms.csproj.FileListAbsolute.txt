@@ -13,3 +13,7 @@ F:\个人信息\Demo\SimpleService\MyWindowsForms\obj\Debug\MyWindowsForms.cspro
 F:\个人信息\Demo\SimpleService\MyWindowsForms\obj\Debug\MyWindowsForms.csproj.CopyComplete
 F:\个人信息\Demo\SimpleService\MyWindowsForms\obj\Debug\MyWindowsForms.exe
 F:\个人信息\Demo\SimpleService\MyWindowsForms\obj\Debug\MyWindowsForms.pdb
+F:\个人信息\Demo\SimpleService\MyWindowsForms\bin\Debug\Logger.dll
+F:\个人信息\Demo\SimpleService\MyWindowsForms\bin\Debug\log4net.dll
+F:\个人信息\Demo\SimpleService\MyWindowsForms\bin\Debug\Logger.pdb
+F:\个人信息\Demo\SimpleService\MyWindowsForms\bin\Debug\log4net.xml

@@ -7,3 +7,7 @@ F:\个人信息\Demo\SimpleService\MyWindowsServiceHost\obj\Debug\MyWindowsServi
 F:\个人信息\Demo\SimpleService\MyWindowsServiceHost\bin\Debug\CycleEngine.dll
 F:\个人信息\Demo\SimpleService\MyWindowsServiceHost\bin\Debug\CycleEngine.pdb
 F:\个人信息\Demo\SimpleService\MyWindowsServiceHost\obj\Debug\MyWindowsServiceHost.csproj.CopyComplete
+F:\个人信息\Demo\SimpleService\MyWindowsServiceHost\bin\Debug\Logger.dll
+F:\个人信息\Demo\SimpleService\MyWindowsServiceHost\bin\Debug\log4net.dll
+F:\个人信息\Demo\SimpleService\MyWindowsServiceHost\bin\Debug\Logger.pdb
+F:\个人信息\Demo\SimpleService\MyWindowsServiceHost\bin\Debug\log4net.xml
