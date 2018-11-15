@@ -18,6 +18,7 @@ namespace CycleEngine
         private const int SLEEP_TIME = 1000;
         /// <summary>
         /// 轮训任务是否停止
+        /// https://blog.csdn.net/zwk_9/article/details/32939339
         /// </summary>
         private volatile bool _isStop = true;
         /// <summary>
